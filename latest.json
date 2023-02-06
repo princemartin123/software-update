@@ -1,40 +1,40 @@
 {
     "WuxnSlicer": {
         "Windows": {
-            "major": 5,
-            "minor": 2,
+            "major": "2.0.2",
+            "minor": "1.0.2",
             "revision": 1,
             "url": "https://ultimaker.com/software/ultimaker-cura?utm_source=cura&utm_medium=software&utm_campaign=cura-update-download"
         },
         "Linux": {
-            "major": 5,
-            "minor": 2,
+            "major": "2.0.2",
+            "minor": "1.0.2",
             "revision": 1,
             "url": "https://ultimaker.com/software/ultimaker-cura?utm_source=cura&utm_medium=software&utm_campaign=cura-update-download"
         },
         "Darwin": {
-            "major": 5,
-            "minor": 2,
+            "major": "2.0.2",
+            "minor": "1.0.2",
             "revision": 1,
             "url": "https://ultimaker.com/software/ultimaker-cura?utm_source=cura&utm_medium=software&utm_campaign=cura-update-download"
         }
     },
 	"WuxnSlicer-beta": {
         "Windows": {
-            "major": 5,
-            "minor": 2,
+            "major": "2.0.2",
+            "minor": "1.0.2",
             "revision": 0,
             "url": "https://github.com/Ultimaker/Cura/releases/tag/5.2.0-beta"
         },
         "Linux": {
-            "major": 5,
-            "minor": 2,
+            "major": "2.0.2",
+            "minor": "1.0.2",
             "revision": 0,
             "url": "https://github.com/Ultimaker/Cura/releases/tag/5.2.0-beta"
         },
         "Darwin": {
-            "major": 5,
-            "minor": 2,
+            "major": "2.0.2",
+            "minor": "1.0.2",
             "revision": 0,
             "url": "https://github.com/Ultimaker/Cura/releases/tag/5.2.0-beta"
         }
